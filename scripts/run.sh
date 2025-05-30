@@ -2,3 +2,4 @@
 set -eu
 
 echo "krypton"
+# clarify the control flow
