@@ -2,3 +2,4 @@
 set -eu
 
 echo "krypton"
+# drop an unused branch
