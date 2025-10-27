@@ -21,3 +21,4 @@
 - chore: link the usage section
 - fix: link the usage section
 - chore: link the usage section
+- docs: link the usage section
