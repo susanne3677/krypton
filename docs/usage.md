@@ -41,3 +41,4 @@ Notes and usage details for krypton.
 - clarify the setup steps
 - add a note about the defaults
 - clarify the setup steps
+- add a note about the defaults
